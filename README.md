@@ -108,9 +108,8 @@ Conversion rates are higher among existing clients, indicating stronger customer
 
 # ✅ Final Thoughts:
 
-🔹 This project successfully identifies root causes behind declining conversion rates.
+🔹 This project successfully identifies the root causes behind declining conversion rates.
 
-🔹 Regression models validate the key predictors influencing lead conversions.
 
 🔹 Data-driven recommendations ensure optimized decision-making for TechnoServe's sales strategy.
 
