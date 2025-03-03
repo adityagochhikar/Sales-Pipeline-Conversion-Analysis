@@ -98,13 +98,7 @@ Conversion rates are higher among existing clients, indicating stronger customer
 
 🔹 Analyzing Competitor Strategies to benchmark conversion rates.
 
-# 📂 Repository Contents
 
-📌 SaaS_Project_Solution.pdf → Complete problem-solving framework, hypothesis formulation, and structured analysis.
-
-📌 Sample_Solution_Part_III.pdf → Detailed insights, statistical validation, and final recommendations.
-
-📌 Data Analysis Reports → Insights on lead conversion rates, regression models, and visualization dashboards.
 
 # ✅ Final Thoughts:
 
